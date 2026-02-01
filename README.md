@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 I'm a Digital Solutions Apprentice at Bosch.<br>🎓 Currently studying Computer Engineering (2nd semester).<br>🌟 Still discovering myself in the technology field.</p>
+<p align="left">💻 I'm a Digital Solutions Apprentice at Bosch.<br>🎓 Currently studying Computer Engineering (3nd semester).<br>🌟 Still discovering myself in the technology field.</p>
 
 ###
 
