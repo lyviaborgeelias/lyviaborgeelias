@@ -10,15 +10,7 @@
 
 ###
 
-<p align="left">💻 I'm a Digital Solutions Apprentice at Bosch.<br>🎓 Currently studying Computer Engineering (3nd semester).<br>🌟 Still discovering myself in the technology field.</p>
-
-###
-
-<h2 align="left">📫Let's Connect</h2>
-
-###
-
-<p align="left">💼 www.linkedin.com/in/lyvia-borge-079000221<br>📧 lyvia.borgeelias@gmail.com</p>
+<p align="left">💻 I'm a Digital Solutions Apprentice at Bosch.<br>🎓 Currently studying Computer Engineering (3nd semester).<br></p>
 
 ###
 
