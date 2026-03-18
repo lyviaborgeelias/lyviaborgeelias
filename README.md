@@ -41,4 +41,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lyviaborgeelias/lyviaborgeelias/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/lyviaborgeelias/lyviaborgeelias/blob/output/github-contribution-grid-snake.svg)
