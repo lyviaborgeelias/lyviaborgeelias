@@ -8,8 +8,6 @@ Welcome to my GitHub profile.
 
 🎓 Computer Engineering student (4th semester)  
 💼 Digital Solutions Apprentice at Bosch  
-💻 Passionate about backend development and databases  
-📚 Currently learning Django, React, APIs and Software Engineering  
 🚀 Always improving my projects and exploring new technologies  
 
 ---
