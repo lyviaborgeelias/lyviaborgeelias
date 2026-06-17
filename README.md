@@ -18,7 +18,7 @@ Welcome to my GitHub profile.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,mysql,git,github,vscode,visualstudio,unity,cs,cpp" />
+<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,mysql,github,vscode,visualstudio,unity,cs,cpp" />
 
 </div>
 
@@ -45,29 +45,3 @@ Welcome to my GitHub profile.
 - UI/UX fundamentals
 
 ---
-
-## 📫 Contact Me
-
-<div align="center">
-
-<a href="https://github.com/lyviaborgeelias">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:lyvia.borgeelias@outlook.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-✨ “Code. Learn. Build. Repeat.” ✨
-
-</div>
