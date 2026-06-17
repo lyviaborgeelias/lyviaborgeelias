@@ -38,25 +38,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lyviaborgeelias&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-📌 Condominium Management System  
-📌 Filminis – Movie Recommendation Platform  
-📌 Database Modeling Projects (SQL Server & MySQL)  
-📌 API Development with Django REST Framework  
-
----
-
 ## 🌱 Currently Learning
 
 - Django REST Framework
