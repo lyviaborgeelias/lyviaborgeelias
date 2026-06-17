@@ -1,8 +1,6 @@
 # Hi, I'm Lyvia 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Backend+Developer;Digital+Solutions+Apprentice+at+Bosch;Always+learning+new+technologies" alt="Typing SVG" />
-</p>
+Welcome to my GitHub profile.
 
 ---
 
