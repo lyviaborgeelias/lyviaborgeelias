@@ -1,44 +1,94 @@
-<h1 align="left">Hi, my name is Lyvia👋</h1>
+# Hi, I'm Lyvia 👋
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Backend+Developer;Digital+Solutions+Apprentice+at+Bosch;Always+learning+new+technologies" alt="Typing SVG" />
+</p>
 
-<p align="left">Welcome to my GitHub profile.</p>
+---
 
-###
+## 👩‍💻 About Me
 
-<h2 align="left">🙋‍♀️ About me</h2>
+🎓 Computer Engineering student (4th semester)  
+💼 Digital Solutions Apprentice at Bosch  
+💻 Passionate about backend development and databases  
+📚 Currently learning Django, React, APIs and Software Engineering  
+🚀 Always improving my projects and exploring new technologies  
 
-###
+---
 
-<p align="left">💻 I'm a Digital Solutions Apprentice at Bosch.<br>🎓 Currently studying Computer Engineering (4nd semester).<br></p>
+## 🛠️ Technologies & Tools
 
-###
+<div align="center">
 
-<h2 align="left">🛠Tools</h2>
+<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,mysql,git,github,vscode,visualstudio,unity,cs,cpp" />
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-###
+---
 
-<div align="left">
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lyviaborgeelias&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyviaborgeelias&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+---
 
-![snake gif](https://github.com/lyviaborgeelias/lyviaborgeelias/blob/output/github-contribution-grid-snake.svg)
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lyviaborgeelias&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+📌 Condominium Management System  
+📌 Filminis – Movie Recommendation Platform  
+📌 Database Modeling Projects (SQL Server & MySQL)  
+📌 API Development with Django REST Framework  
+
+---
+
+## 🌱 Currently Learning
+
+- Django REST Framework
+- React + Vite
+- MySQL
+- Software Architecture
+- UI/UX fundamentals
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+<a href="https://github.com/lyviaborgeelias">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lyvia.borgeelias@outlook.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ “Code. Learn. Build. Repeat.” ✨
+
+</div>
