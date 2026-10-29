@@ -32,7 +32,6 @@ Welcome to my GitHub profile.
 
 </div>
 
----
 
 ## 🌱 Currently Learning
 
